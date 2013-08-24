@@ -6,6 +6,7 @@
   "repo_name": "djpackage",
   "app_name": "djpackage",
   "project_short_description": "Your project description goes here",
+  "model_names": "Comma seperated list of model names",
   "release_date": "2013-08-15",
   "year": "2013",
   "version": "0.1.0"
