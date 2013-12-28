@@ -28,7 +28,7 @@ Install {{ cookiecutter.project_name }}::
 
 Then use it in a project::
 
-	import {{ cookiecutter.repo_name }}
+    import {{ cookiecutter.repo_name }}
 
 Features
 --------
